@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  color: azure;
+}
+
+#form {
+  color: azure;
+}
+body {
+  background-image: url("../assets/images/mlb_the_show_18_aaron_judge_art_1200.1510009485.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+img {
+  width: 276px;
+  height: 200px;
+}
+
+button {
+  margin: 10px;
+}
+
+p {
+  color: azure;
+}
